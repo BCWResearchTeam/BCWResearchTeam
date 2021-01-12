@@ -1,13 +1,13 @@
-Package: com.site.tweakname
-Version: 1.0.0
+Package: com.platinmodschewy.blockcitywars_7.1.9_iphoneos-arm_2
+Version: 7.1.9
 Architecture: iphoneos-arm
-Maintainer: YourName <YourEmail>
-Filename: /TweakName.deb
-Size: (size without ,'s')
-MD5sum: xxxxxxxxxxxx
-SHA1: xxxxxxxxxxxx
-SHA256: xxxxxxxxxxxx
-Section: (Folder Name)
-Description: (What Is This Tweak)
-Author: (Tweak Owner) (Email)
-Name: (NameHere)
+Maintainer: qnzboi102 <idk@gmail.com>
+Filename: /com.platinmodschewy.blockcitywars_7.1.9_iphoneos-arm_2.deb
+Size: 138778
+MD5sum: 2BCA3E53DDFF4512743513DF5F8A4682
+SHA1: 7091D90ADFF465B4601EAFBF23E9E40EDAEE714C
+SHA256: 95058768AA17E0AC137718F28155DB4D301D087B9C34CC4EDA2A667CADEE8B67
+Section: (Tweaks)
+Description: (Block City Wars Mod Menu)
+Author: (qnzboi102) (idk@gmail.com)
+Name: (Block City Wars Mod Menu)
