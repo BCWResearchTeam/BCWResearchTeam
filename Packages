@@ -7,7 +7,21 @@ Size: 138778
 MD5sum: 2BCA3E53DDFF4512743513DF5F8A4682
 SHA1: 7091D90ADFF465B4601EAFBF23E9E40EDAEE714C
 SHA256: 95058768AA17E0AC137718F28155DB4D301D087B9C34CC4EDA2A667CADEE8B67
-Section: (Tweaks)
-Description: (Block City Wars Mod Menu)
+Section: Tweaks
+Description: Block City Wars Mod Menu
 Author: (qnzboi102) (idk@gmail.com)
-Name: (Block City Wars Mod Menu)
+Name: Block City Wars Mod Menu
+
+Package: com.cokepokes.appstoreplusplus_0.9.14-1_iphoneos-arm
+Version: 0.9.14-1
+Architecture: iphoneos-arm
+Maintainer: cokepokes <idk@gmail.com>
+Filename: /com.cokepokes.appstoreplusplus_0.9.14-1_iphoneos-arm.deb
+Size: 960180
+MD5sum: 4D559FB215D78D33FD2BFE9CB6FECB67
+SHA1: 87468D4CE1F6250780ACB95E04677BDE7B6C5655
+SHA256: 2CADFE19868F6ED0FFBC06F20E383540EAC1A3040554652E0AD08110C361A4DF
+Section: Tweaks
+Description: downgrade tool
+Author: (cokepokes) (idk@gmail.com)
+Name: AppStore++
